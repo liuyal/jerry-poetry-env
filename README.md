@@ -1,2 +1,2 @@
 # jerry-poetry-env
-Poetry Python virtual evironment
+Poetry Python virtual environment
